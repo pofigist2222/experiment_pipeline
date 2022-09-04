@@ -1,5 +1,5 @@
 name: Average Revenue per Paying User Without Cancelation
-type: ratio
+type: non-ratio
 estimator: mann_whitney
 level: user_pseudo_id
 numerator:
